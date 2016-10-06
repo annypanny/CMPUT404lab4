@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/cshome/xpan/c404/l4/venv"
+VIRTUAL_ENV="/cshome/xpan/c404/l4/CMPUT404lab4/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
